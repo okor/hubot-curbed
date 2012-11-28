@@ -1,1 +1,19 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee", "auto-stache.coffee"]
+[ 
+	"redis-brain.coffee",
+	"tweet.coffee",
+	"shipit.coffee",
+	"auto-stache.coffee",
+	"auto-stache.coffee",
+	"google-images.coffee",
+	"help.coffee",
+	"httpd.coffee",
+	"maps.coffee",
+	"math.coffee",
+	"ping.coffee",
+	"pugme.coffee",
+	"roles.coffee",
+	"rules.coffee",
+	"storage.coffee",
+	"translate.coffee",
+	"youtube.coffee"
+]
