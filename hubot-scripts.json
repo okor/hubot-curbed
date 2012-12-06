@@ -16,5 +16,6 @@
 	"storage.coffee",
 	"translate.coffee",
 	"youtube.coffee",
-	"9gag.coffee"
+	"9gag.coffee",
+	"abstract.coffee"
 ]
