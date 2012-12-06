@@ -15,5 +15,6 @@
 	"rules.coffee",
 	"storage.coffee",
 	"translate.coffee",
-	"youtube.coffee"
+	"youtube.coffee",
+	"9gag.coffee"
 ]
