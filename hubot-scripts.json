@@ -1,7 +1,5 @@
 [ 
 	"redis-brain.coffee",
-	"tweet.coffee",
-	"shipit.coffee",
 	"auto-stache.coffee",
 	"auto-stache.coffee",
 	"google-images.coffee",
