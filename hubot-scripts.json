@@ -1,15 +1,4 @@
 [ 
 	"redis-brain.coffee",
-	"auto-stache.coffee",
-	"help.coffee",
-	"httpd.coffee",
-	"maps.coffee",
-	"math.coffee",
-	"ping.coffee",
-	"pugme.coffee",
-	"rules.coffee",
-	"storage.coffee",
-	"translate.coffee",
-	"youtube.coffee",
-	"abstract.coffee"
+	"google-images.coffee"
 ]
