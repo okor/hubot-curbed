@@ -1,7 +1,6 @@
 [ 
 	"redis-brain.coffee",
 	"auto-stache.coffee",
-	"auto-stache.coffee",
 	"google-images.coffee",
 	"help.coffee",
 	"httpd.coffee",
